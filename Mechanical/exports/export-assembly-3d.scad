@@ -1,3 +1,3 @@
-use <../eurorack-stereo-to-mono-module.scad>
+use <../eurorack-buffered-mult-module.scad>
 
-EurorackStereoToMonoModule_Assembly();
+EurorackBufferedMultModule_Assembly();
